@@ -14,7 +14,8 @@ function App() {
       // alid string title
       />
 
-      <h1>Git hub</h1>
+<h1>Git hub</h1>
+<h1>Git hub</h1>
     </>
   );
 }

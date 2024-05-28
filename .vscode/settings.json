@@ -1,0 +1,8 @@
+{
+    "scm.alwaysShowActions": false,
+    "scm.alwaysShowRepositories": false,
+    "scm.autoReveal": true,
+    "scm.countBadge": "all",
+    "javascript.preferGoToSourceDefinition": false,
+    "typescript.preferGoToSourceDefinition": true
+}
